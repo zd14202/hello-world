@@ -3,3 +3,4 @@ this is my first repository.
 commit
 i will victory
 i want victory
+this is a change fro my learn
